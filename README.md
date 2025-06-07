@@ -24,7 +24,7 @@ Databases<br>
 ![influx](https://github.com/user-attachments/assets/df91786d-b8ac-47be-ac51-99c668605795)
 <br><br>
 DevOps and Infrastructure<br>
-![docker](https://github.com/user-attachments/assets/169c9898-d6de-45ba-9d03-f3713d9d06ff)
+![docker](https://github.com/user-attachments/assets/b566c5e3-b96c-4f62-8d24-7910fb08b8e8)
 ![kubernetes](https://github.com/user-attachments/assets/60b63cb6-cb7e-4a37-b3e0-a919604bffe9)
 ![grafana](https://github.com/user-attachments/assets/fc58ed29-0f3e-4142-84b9-f80158252097)
 <br><br>
