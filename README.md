@@ -9,6 +9,8 @@ Key Features.
 📈 Predictive Analytics - ML models for forecasting and classification
 🔄 Real-time Processing - Real-time forecasts and alerts
 
+![image](https://github.com/user-attachments/assets/da7ee7e1-5319-47b4-8ec9-0ac928dd2e40)
+
 
 Stacks<br>
 ![python](https://github.com/user-attachments/assets/d5cbe628-beae-45ac-8eb1-cda56a4460d7)
