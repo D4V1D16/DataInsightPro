@@ -1,5 +1,6 @@
 🚀 DataInsight Pro - SaaS Predictive Analytics Platform
-![[https://www.python.org/static/community_logos/python-logo.png]]
+
+![logo-python](https://github.com/user-attachments/assets/bbcaa38c-be6a-4dfc-bdd0-03f5635dc1e4)
 
 📋 Project Description.
 DataInsight Pro is an enterprise SaaS platform that enables organizations to upload datasets, apply machine learning models automatically, generate predictive insights and create interactive dashboards. The platform is built on a modern, scalable microservices architecture.
